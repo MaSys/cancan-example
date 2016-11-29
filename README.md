@@ -1,3 +1,12 @@
+```
+  __  __       ____               ____
+ |  \/  | __ _/ ___| _   _ ___   / ___|___
+ | |\/| |/ _` \___ \| | | / __| | |   / _ \
+ | |  | | (_| |___) | |_| \__ \ | |__| (_) |
+ |_|  |_|\__,_|____/ \__, |___/  \____\___(_)
+                     |___/
+```
+
 <pre><code>rails g cancan:ability</code></pre>
 <pre><code>rails g scaffold user username:string</code></pre>
 <pre><code>rails g scaffold role name:string</code></pre>
